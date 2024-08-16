@@ -46,7 +46,7 @@ To install and run this application on your local machine, follow the steps belo
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/Abhilash-3107/MedLink
+git clone https://github.com/Abhilash-3107/MedicalNFTs.git
 ```
 2. Open the terminal and navigate to the project directory.
 ```bash
